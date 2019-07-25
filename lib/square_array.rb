@@ -12,5 +12,9 @@
 
 
 def square_array(array)
-  # your code here
+  new_array = []
+  
+  ##need a loop, iterates each element 
+  
+  ##return the new array 
 end
