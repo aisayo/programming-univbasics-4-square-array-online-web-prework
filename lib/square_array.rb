@@ -25,6 +25,14 @@
 # end
 
 
-def square_array()
+def square_array(array)
+  new_array = []
+  counter = 0 
+  
+  while numbers[counter] do 
+    
+  end 
+  
+  return new_array
 
-
+end 
