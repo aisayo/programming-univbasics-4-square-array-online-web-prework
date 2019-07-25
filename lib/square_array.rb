@@ -21,4 +21,5 @@ def square_array(array)
     #counter = counter + 1 
   end
   ##return the new array 
+  new_array 
 end
