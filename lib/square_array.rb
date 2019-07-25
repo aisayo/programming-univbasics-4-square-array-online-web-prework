@@ -4,7 +4,12 @@
 #return a *****new***** array with squared numbers
 
 
-
+#while(conditional) iterator 
+  #loop 
+  #while <<<<condition >>>>> do 
+    ###execution code 
+    
+  # end 
 
 
 def square_array(array)
