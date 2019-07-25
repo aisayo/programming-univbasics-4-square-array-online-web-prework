@@ -9,3 +9,6 @@ numbers = [1, 2, 3]
 
 accessing and manipulate elements in an array
 numbers[1]
+
+index is how we access elements
+ first element = 0 
