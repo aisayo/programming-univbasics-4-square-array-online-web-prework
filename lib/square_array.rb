@@ -13,8 +13,14 @@
 
 def square_array(array)
   new_array = []
+  counter = 0 
   
-  ##need a loop, iterates each element 
+  while array[counter]
+  
+  end 
+  
+  
+  ##increment our counter after the loop 
   
   ##return the new array 
 end
